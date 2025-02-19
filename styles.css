@@ -1,0 +1,37 @@
+.wrapper {
+    background-color: azure;
+    display: flex;
+    gap: 25px;
+    margin: 0 auto;
+    padding-left: 550px;
+    margin-top: 55px;
+
+}
+
+.buttonPlus {
+    background-color: rgb(246, 164, 164);
+    width: 120px;
+    height: 30px;
+    border: 1px black solid;
+    border-radius: 9px;
+    font-size: 28px;
+}
+
+.counter {
+    width: 45px;
+    height: 30px;
+    border: 1px black solid;
+    background-color: beige;
+    text-align: center;
+    font-size: 25px;
+}
+
+.buttonMinus {
+    background-color: rgb(174, 248, 244);
+    width: 120px;
+    height: 30px;
+    border: 1px black solid;
+    border-radius: 9px;
+    font-size: 18px;
+
+}
